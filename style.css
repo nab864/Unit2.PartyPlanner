@@ -1,0 +1,19 @@
+.entry {
+  display: flex;
+  align-items: center;
+}
+
+form>div, button {
+  text-align: right;
+}
+
+form {
+  display: inline-block;
+}
+
+h1 {
+  text-align: center;
+}
+form>h2 {
+  text-align: center;
+}
